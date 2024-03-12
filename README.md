@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm  from Batam, Kepuluan Riau, Indonesia<br><br>- 📚 I'm currently learning In Polibatam<br>- ⚡ In my free time I like to code and play chess</p>
+<p align="left">I'm  from Batam, Kepulauan Riau, Indonesia<br><br>- 📚 I'm currently learning In Polibatam<br>- ⚡ In my free time I like to code and play chess</p>
 
 ###
 
